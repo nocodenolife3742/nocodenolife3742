@@ -25,9 +25,9 @@ PostgreSQL, MySQL, SQLite
 **Tools & Frameworks:**  
 Git, WebSocket, Swagger, LLMs, YOLO, OCR
 
-## 📫 Get in Touch
+## Get in Touch
 
-- ✉️ **Email:** [ericncnl3742@gmail.com](mailto:ericncnl3742@gmail.com)  
-- 📱 **Phone:** (+886) 963-368-089
+- **Email:** [ericncnl3742@gmail.com](mailto:ericncnl3742@gmail.com)  
+- **Phone:** (+886) 963-368-089
 
 Thanks for stopping by! Feel free to check out my repos and connect.
