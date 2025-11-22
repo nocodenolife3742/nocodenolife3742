@@ -14,16 +14,16 @@ I'm currently pursuing a Bachelor’s in Computer Science and Information Engine
 ## Tech Stack
 
 **Languages:**  
-C, C++, Python, Java, OCaml, Golang, JavaScript, TypeScript, SQL
+C, C++, Python, Java, Golang, JavaScript, TypeScript, SQL
 
 **Web Development:**  
-HTML, CSS, Tailwind CSS, React, Express.js, Flask
+HTML, CSS, Tailwind CSS, React, Express.js, Flask, ASP.NET
 
 **Databases:**  
-PostgreSQL, MySQL, SQLite
+PostgreSQL, SQL Server, SQLite
 
 **Tools & Frameworks:**  
-Git, WebSocket, Swagger, LLMs, YOLO, OCR
+Git, WebSocket, Swagger, LLMs, YOLO
 
 ## Get in Touch
 
